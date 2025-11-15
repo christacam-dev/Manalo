@@ -1,0 +1,102 @@
+  1  ls
+    2  ls-as
+    3  cd documents
+    4  ls
+    5  mkdir Manalo
+    6  cd MANALO
+    7  ls
+    8  cd
+    9  cd MANALO
+   10  ls
+   11  touch readme.md
+   12  ls
+   13  ls readme.md
+   14  start readme.md
+   15  touch test.md
+   16  ls
+   17  ls readme.md
+   18  git config --global user.name
+   19  git config --global user.name christacam-dev
+   20  git conflic --global user.email
+   21  git conflic--global user.email "christamnl159@gmail.com"
+   22  git config --global user.email
+   23  git config --global user.email "christamnl159@gmail.com"
+   24  git config --global user.email
+   25  git init
+   26  cd .git
+   27  cd..
+   28  ls
+   29  ls readme.md
+   30  git status
+   31  ls readme.md
+   32  ls
+   33  ls raedme.md
+   34  ls readme.md
+   35  ls
+   36  ls-as
+   37  cd documents
+   38  cd document
+   39  cd Documents
+   40  ls
+   41  ls-as
+   42  cd documents
+   43  ls
+   44  ls-as
+   45  ls -as
+   46  cd documents
+   47  cd documents
+   48  cd Manalo
+   49  cd MANALO
+   50  ls
+   51  ls -as
+   52  cd document
+   53  cd pokemon
+   54  cd MANALO
+   55  ls
+   56  ls -as
+   57  cd documents
+   58  ls
+   59  ls -as
+   60  cd documents
+   61  mkdir
+   62  mkdir manalo
+   63  mkdir MANALO
+   64  ls
+   65  ls -as
+   66  cd documents
+   67  mkdir christins
+   68  cd christina
+   69  ls
+   70  cd
+   71  cd christina
+   72  cd christins
+   73  ls
+   74  cd desktop
+   75  mkdir Manalo
+   76  touch readme.md
+   77  start readme.md
+   78  git config --global user.name
+   79  git config --global user.email
+   80  git init
+   81  git add .
+   82  git status
+   83  cd ..
+   84  cd desktop
+   85  cd Manalo
+   86  touch readme.md
+   87  start readme.md
+   88  git config --global user.name
+   89  git config --global user.email
+   90  git init
+   91  git add .
+   92  git status
+   93  git commit -m "first commit"
+   94  git branch -M main
+   95  git remote add origin https://github.com/christacam-dev/Manalo.git
+   96  git push -u origin main
+   97  git add .
+   98  git commit -m "second commit"
+   99  git branch -M main
+  100  git push -u origin main
+  101  history
+  102  history
